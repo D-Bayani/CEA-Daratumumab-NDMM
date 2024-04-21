@@ -4,7 +4,7 @@ Authors: Bayani DB, Lin YHC, Nagarajan C, Ooi MG, Yso ACY, Cairns J, Wee HL
 
 Corresponding Author: DB Bayani | dbayani@u.nus.edu
 
-Instructions per chapter below:
+Instructions per section below:
 
 Partitioned Survival Analysis: Patient-level data or pseudo patient-level data must be available for each trial. To generate pseudo patient-level data, a digitizer software must be used together with the validated algorithm by Guyot, et al. This can also be constructed via this link: https://www.trialdesign.org/one-page-shell.html#IPDfromKM
 
